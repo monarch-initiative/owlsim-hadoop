@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-  <name>disease-comparison</name>
+  <name>owlsim-hadoop</name>
   <projects/>
   <buildSpec>
     <buildCommand>
